@@ -1,6 +1,10 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\whatd\\source\\repos\\CourseWebApp\\",
+=======
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\CourseWebApp\\",
+>>>>>>> 38d6ffc10b813a5b4228be8dfc9a8927d77175a7
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -13,7 +17,11 @@
           "Children": [
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+=======
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+>>>>>>> 38d6ffc10b813a5b4228be8dfc9a8927d77175a7
             },
             {
               "$type": "Bookmark",
@@ -21,15 +29,25 @@
             },
             {
               "$type": "Bookmark",
+<<<<<<< HEAD
+=======
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
+>>>>>>> 38d6ffc10b813a5b4228be8dfc9a8927d77175a7
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+<<<<<<< HEAD
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+=======
+>>>>>>> 38d6ffc10b813a5b4228be8dfc9a8927d77175a7
             }
           ]
         },
