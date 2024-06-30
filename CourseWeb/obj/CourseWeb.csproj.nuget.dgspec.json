@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj": {}
+    "C:\\Users\\whatd\\source\\repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj": {
+    "C:\\Users\\whatd\\source\\repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
+        "projectUniqueName": "C:\\Users\\whatd\\source\\repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
         "projectName": "CourseWeb",
-        "projectPath": "C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
+        "projectPath": "C:\\Users\\whatd\\source\\repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
         "packagesPath": "C:\\Users\\whatd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\obj\\",
+        "outputPath": "C:\\Users\\whatd\\source\\repos\\CourseWebApp\\CourseWeb\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\whatd\\AppData\\Roaming\\NuGet\\NuGet.Config",

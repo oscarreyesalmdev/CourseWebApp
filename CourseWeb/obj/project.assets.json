@@ -4111,9 +4111,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
+      "projectUniqueName": "C:\\Users\\whatd\\source\\repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
       "projectName": "CourseWeb",
-      "projectPath": "C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
+      "projectPath": "C:\\Users\\whatd\\source\\repos\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
       "packagesPath": "C:\\Users\\whatd\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\obj\\",
       "projectStyle": "PackageReference",
@@ -4187,13 +4187,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\whatd\\Source\\Repos\\CourseWebApp\\CourseWeb\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }
