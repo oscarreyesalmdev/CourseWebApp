@@ -18,6 +18,11 @@ namespace CourseWeb.Controllers
             return View();
         }
 
+        public IActionResult Course() 
+        { 
+            return View(); 
+        }
+
         public IActionResult Privacy()
         {
             return View();
