@@ -1,3 +1,4 @@
+using CourseWeb.Data;
 using CourseWeb.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -7,10 +8,12 @@ namespace CourseWeb.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly CourseAppContext _context;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, CourseAppContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
         public IActionResult Index()
@@ -20,7 +23,8 @@ namespace CourseWeb.Controllers
 
         public IActionResult Course() 
         { 
-            return View(); 
+           var curso = _context.Cursos.ToList();
+            return View(curso);
         }
 
         public IActionResult Privacy()
