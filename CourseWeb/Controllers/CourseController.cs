@@ -25,6 +25,7 @@ namespace CourseWeb.Controllers
         // GET: CourseController/Details/5
         public ActionResult Details(int id)
         {
+            var lelo = 444;
             return View();
         }
 
