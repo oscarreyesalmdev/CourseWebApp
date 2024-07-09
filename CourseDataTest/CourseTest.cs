@@ -1,6 +1,6 @@
 namespace CourseDataTest
 {
-    public class UnitTest1
+    public class CourseTest
     {
         [Fact]
         public void Test1()
