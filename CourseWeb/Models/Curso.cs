@@ -6,8 +6,8 @@
 
         public string Titulo { get; set; }
 
-        public string descripcion { get; set; }
+        public string Descripcion { get; set; }
 
-        public DateTime fechaPublicacion { get; set;}
+        public DateTime FechaPublicacion { get; set;}
     }
 }
