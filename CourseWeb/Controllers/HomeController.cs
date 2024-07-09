@@ -31,6 +31,11 @@ namespace CourseWeb.Controllers
         {
             return View();
         }
+        public IActionResult Evaluacion()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
 
