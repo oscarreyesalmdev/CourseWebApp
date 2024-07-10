@@ -16,7 +16,7 @@ namespace CourseWeb.Controllers
         // GET: EvaluacionController
         public ActionResult Index()
         {
-            var evaluacion = _context.Evaluacion.ToList();
+            var evaluacion = _context.evaluacion;
             return View(evaluacion);
         }
 
