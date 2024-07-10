@@ -7,32 +7,44 @@
       "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\controllers\\evaluacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\controllers\\evaluacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{909B19D8-6174-475D-B359-946B44DF1BEB}|CourseDataTest\\CourseDataTest.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\coursedatatest\\coursetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909B19D8-6174-475D-B359-946B44DF1BEB}|CourseDataTest\\CourseDataTest.csproj|solutionrelative:coursedatatest\\coursetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\evaluacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\evaluacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\evaluacion\\creare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\evaluacion\\creare.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\models\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\models\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\course\\crearc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\course\\crearc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\data\\courseappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\data\\courseappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\models\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\models\\evaluacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\evaluacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\evaluacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\controllers\\evaluacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\controllers\\evaluacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\course\\crearc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\course\\crearc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\course\\editarc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -51,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,10 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|solutionrelative:courseweb\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{909B19D8-6174-475D-B359-946B44DF1BEB}|CourseDataTest\\CourseDataTest.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\coursedatatest\\coursetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{909B19D8-6174-475D-B359-946B44DF1BEB}|CourseDataTest\\CourseDataTest.csproj|solutionrelative:coursedatatest\\coursetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BD138C0C-18EB-497F-8C0A-BE4C400C42B9}|CourseWeb\\CourseWeb.csproj|c:\\users\\steil\\onedrive - instituto tecnol\u00F3gico de las am\u00E9ricas (itla)\\im\u00E1genes\\itla\\devops\\courseapp\\coursewebapp\\courseweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -131,53 +135,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EditarC.cshtml",
-              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\EditarC.cshtml",
-              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\EditarC.cshtml",
-              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\EditarC.cshtml",
-              "RelativeToolTip": "CourseWeb\\Views\\Course\\EditarC.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T01:01:56.024Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Evaluacion\\Index.cshtml",
-              "RelativeDocumentMoniker": "CourseWeb\\Views\\Evaluacion\\Index.cshtml",
-              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Evaluacion\\Index.cshtml",
-              "RelativeToolTip": "CourseWeb\\Views\\Evaluacion\\Index.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T00:53:18.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "EvaluacionController.cs",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Controllers\\EvaluacionController.cs",
               "RelativeDocumentMoniker": "CourseWeb\\Controllers\\EvaluacionController.cs",
               "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Controllers\\EvaluacionController.cs",
               "RelativeToolTip": "CourseWeb\\Controllers\\EvaluacionController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCoAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-10T00:53:00.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "CourseController.cs",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "CourseWeb\\Controllers\\CourseController.cs",
               "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Controllers\\CourseController.cs",
               "RelativeToolTip": "CourseWeb\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAFYAAAAAAAAAAADwv2EAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-09T21:58:29.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseTest.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseTest.cs",
+              "RelativeDocumentMoniker": "CourseDataTest\\CourseTest.cs",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseTest.cs",
+              "RelativeToolTip": "CourseDataTest\\CourseTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T22:31:07.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CourseAppContext.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Data\\CourseAppContext.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Data\\CourseAppContext.cs",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Data\\CourseAppContext.cs",
+              "RelativeToolTip": "CourseWeb\\Data\\CourseAppContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T00:49:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Evaluacion.cs",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Models\\Evaluacion.cs",
+              "RelativeDocumentMoniker": "CourseWeb\\Models\\Evaluacion.cs",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Models\\Evaluacion.cs",
+              "RelativeToolTip": "CourseWeb\\Models\\Evaluacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T01:06:49.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Evaluacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Evaluacion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Evaluacion\\Index.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Evaluacion\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T00:53:18.754Z",
               "EditorCaption": ""
             },
             {
@@ -188,79 +218,27 @@
               "RelativeDocumentMoniker": "CourseWeb\\appsettings.json",
               "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\appsettings.json",
               "RelativeToolTip": "CourseWeb\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-07-09T01:38:18.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Evaluacion.cs",
-              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Models\\Evaluacion.cs",
-              "RelativeDocumentMoniker": "CourseWeb\\Models\\Evaluacion.cs",
-              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Models\\Evaluacion.cs",
-              "RelativeToolTip": "CourseWeb\\Models\\Evaluacion.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAQwAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T01:06:49.327Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\Index.cshtml",
-              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\Index.cshtml",
-              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\Index.cshtml",
-              "RelativeToolTip": "CourseWeb\\Views\\Course\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "CrearE.cshtml",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Evaluacion\\CrearE.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Evaluacion\\CrearE.cshtml",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Evaluacion\\CrearE.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Evaluacion\\CrearE.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-09T21:59:02.535Z",
+              "WhenOpened": "2024-07-10T02:12:45.402Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "CourseWeb\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "CourseWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAADwvyIAAAB/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-30T00:51:51.343Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CrearC.cshtml",
-              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\CrearC.cshtml",
-              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\CrearC.cshtml",
-              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\CrearC.cshtml",
-              "RelativeToolTip": "CourseWeb\\Views\\Course\\CrearC.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T01:09:46.208Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CourseAppContext.cs",
-              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Data\\CourseAppContext.cs",
-              "RelativeDocumentMoniker": "CourseWeb\\Data\\CourseAppContext.cs",
-              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Data\\CourseAppContext.cs",
-              "RelativeToolTip": "CourseWeb\\Data\\CourseAppContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-30T00:49:25.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "CourseWeb\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -273,7 +251,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvyIAAAB/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T00:51:51.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\Index.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\Index.cshtml",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\Index.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Course\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-09T21:59:02.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EditarC.cshtml",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\EditarC.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\EditarC.cshtml",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\EditarC.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Course\\EditarC.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T01:01:56.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CrearC.cshtml",
+              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\CrearC.cshtml",
+              "RelativeDocumentMoniker": "CourseWeb\\Views\\Course\\CrearC.cshtml",
+              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Course\\CrearC.cshtml",
+              "RelativeToolTip": "CourseWeb\\Views\\Course\\CrearC.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-10T01:09:46.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "CourseWeb\\Controllers\\UserController.cs",
@@ -286,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CourseWeb\\Controllers\\HomeController.cs",
@@ -299,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "CourseWeb\\Models\\Usuario.cs",
@@ -312,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Curso.cs",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Models\\Curso.cs",
               "RelativeDocumentMoniker": "CourseWeb\\Models\\Curso.cs",
@@ -325,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "CourseWeb\\Views\\Home\\Privacy.cshtml",
@@ -338,20 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "CourseTest.cs",
-              "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseTest.cs",
-              "RelativeDocumentMoniker": "CourseDataTest\\CourseTest.cs",
-              "ToolTip": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseTest.cs",
-              "RelativeToolTip": "CourseDataTest\\CourseTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-09T22:31:07.274Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\User\\Index.cshtml",
               "RelativeDocumentMoniker": "CourseWeb\\Views\\User\\Index.cshtml",
@@ -364,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Program.cs",
               "RelativeDocumentMoniker": "CourseWeb\\Program.cs",
@@ -377,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "CourseWeb\\Views\\_ViewImports.cshtml",
@@ -390,7 +407,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "CourseWeb\\Views\\_ViewStart.cshtml",
@@ -403,7 +420,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "CourseWeb\\Models\\ErrorViewModel.cs",
@@ -416,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\appsettings.Development.json",
               "RelativeDocumentMoniker": "CourseWeb\\appsettings.Development.json",
@@ -429,7 +446,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CourseWeb\\Views\\Home\\Index.cshtml",
@@ -442,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
               "DocumentMoniker": "C:\\Users\\steil\\OneDrive - Instituto Tecnol\u00F3gico de Las Am\u00E9ricas (ITLA)\\Im\u00E1genes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "CourseWeb\\wwwroot\\favicon.ico",
