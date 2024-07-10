@@ -1,8 +1,13 @@
 ﻿@using CourseWeb.Models
 @model IEnumerable<Curso>
+
 @{
     ViewData["Title"] = "Courses";
 }
+
+<div class="panel-body text-left">
+    <a asp-controller="Course" asp-action="CrearC" class="btn btn-outline-success">Crear Cursos</a>
+</div>
 
 <div class="px-4 py-5 my-5 text-center">
     @foreach (var curso in Model)
@@ -11,7 +16,10 @@
         <div class="col-lg-6 mx-auto">
             <p class="lead mb-4">@curso.Descripcion</p>
             <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
-                <button type="button" class="btn btn-primary btn-lg px-4 gap-3">Ver Curso</button>
+                <a asp-controller="Course" asp-action="EditarC" asp-route-id="@curso.Id" class="btn btn-primary btn-lg px-4 gap-3">Editar</a>
+                <form asp-controller="Course" asp-action="EliminarC" asp-route-id="@curso.Id" method="post" class="d-inline">
+                    <button type="submit" class="btn btn-danger btn-lg px-4 gap-3">Eliminar</button>
+                </form>
             </div>
         </div>
     }

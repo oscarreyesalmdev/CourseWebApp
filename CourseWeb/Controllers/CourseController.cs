@@ -1,4 +1,5 @@
 ﻿using CourseWeb.Data;
+using CourseWeb.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -22,74 +23,98 @@ namespace CourseWeb.Controllers
             return View(curso);
         }
 
-        // GET: CourseController/Details/5
-        public ActionResult Details(int id)
+        public ActionResult CursoUser()
         {
-            
-            return View();
+            var curso = _context.Cursos.ToList();
+            return View(curso);
         }
 
-        // GET: CourseController/Create
-        public ActionResult Create()
+        public ActionResult EditarC()
         {
             return View();
         }
 
-        // POST: CourseController/Create
+        public ActionResult CrearC()
+        {
+            return View();
+        }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(IFormCollection collection)
+        public async Task<ActionResult> CrearC(Curso curso)
         {
-            try
+            if (ModelState.IsValid)
             {
+                _context.Add(curso);
+                await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            catch
-            {
-                return View();
-            }
+            return View(curso);
         }
 
-        // GET: CourseController/Edit/5
-        public ActionResult Edit(int id)
+        [HttpGet]
+        public async Task<ActionResult> EditarC(int? id)
         {
-            return View();
+            if (id == null)
+            {
+                return NotFound();
+            }
+
+            var curso = await _context.Cursos.FindAsync(id);
+            if (curso == null)
+            {
+                return NotFound();
+            }
+            return View(curso);
         }
 
-        // POST: CourseController/Edit/5
+        // POST: CourseController/EditarC/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit(int id, IFormCollection collection)
+        public async Task<ActionResult> EditarC(int id, [Bind("Id,Titulo,Descripcion,FechaPublicacion")] Curso curso)
         {
-            try
+            if (id != curso.Id)
             {
-                return RedirectToAction(nameof(Index));
+                return NotFound();
             }
-            catch
+
+            if (ModelState.IsValid)
             {
-                return View();
+                try
+                {
+                    _context.Update(curso);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
+                catch (DbUpdateConcurrencyException)
+                {
+                    if (!CursoExists(curso.Id))
+                    {
+                        return NotFound();
+                    }
+                    else
+                    {
+                        throw;
+                    }
+                }
             }
+            return View(curso);
         }
 
-        // GET: CourseController/Delete/5
-        public ActionResult Delete(int id)
+        private bool CursoExists(int id)
         {
-            return View();
+            return _context.Cursos.Any(e => e.Id == id);
         }
 
-        // POST: CourseController/Delete/5
-        [HttpPost]
+        [HttpPost, ActionName("EliminarC")]
         [ValidateAntiForgeryToken]
-        public ActionResult Delete(int id, IFormCollection collection)
+        public async Task<IActionResult> EliminarC(int id)
         {
-            try
-            {
-                return RedirectToAction(nameof(Index));
-            }
-            catch
-            {
-                return View();
-            }
+            var curso = await _context.Cursos.FindAsync(id);
+            _context.Cursos.Remove(curso);
+            await _context.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
+
     }
 }
