@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj": {}
+    "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj": {}
   },
   "projects": {
-    "E:\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj": {
+    "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj",
+        "projectUniqueName": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj",
         "projectName": "CourseDataTest",
-        "projectPath": "E:\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj",
-        "packagesPath": "C:\\Users\\byp4ss\\.nuget\\packages\\",
-        "outputPath": "E:\\CourseWebApp\\CourseDataTest\\obj\\",
+        "projectPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj",
+        "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\byp4ss\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\CourseWeb.csproj": {
+                "projectPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\CourseWeb.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -83,7 +87,95 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\CourseWeb.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
+        "projectName": "CourseWeb",
+        "projectPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\CourseWeb.csproj",
+        "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseWeb\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

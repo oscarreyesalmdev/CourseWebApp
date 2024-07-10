@@ -1,11 +1,15 @@
+using CourseWeb.Controllers;
+using CourseWeb.Data;
+
 namespace CourseDataTest
 {
-    public class CourseTest
+    public class CourseTest(CourseAppContext context)
     {
         [Fact]
-        public void Test1()
+        public void EditarNullCourse()
         {
-
+            
+            
         }
     }
 }
