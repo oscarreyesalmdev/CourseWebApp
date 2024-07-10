@@ -22,8 +22,8 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steil/OneDrive - Instituto Tecnológico de Las Américas (ITLA)/Imágenes/ITLA/Devops/CourseApp/CourseWebApp/CourseWeb/Views/Home/Evaluacion.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFdmFsdWFjaW9uLmNzaHRtbA==
+[C:/Users/steil/OneDrive - Instituto Tecnológico de Las Américas (ITLA)/Imágenes/ITLA/Devops/CourseApp/CourseWebApp/CourseWeb/Views/Evaluacion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZhbHVhY2lvblxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/steil/OneDrive - Instituto Tecnológico de Las Américas (ITLA)/Imágenes/ITLA/Devops/CourseApp/CourseWebApp/CourseWeb/Views/Home/Index.cshtml]
@@ -34,16 +34,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/steil/OneDrive - Instituto Tecnológico de Las Américas (ITLA)/Imágenes/ITLA/Devops/CourseApp/CourseWebApp/CourseWeb/Views/Home/Usuario.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxVc3VhcmlvLmNzaHRtbA==
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/steil/OneDrive - Instituto Tecnológico de Las Américas (ITLA)/Imágenes/ITLA/Devops/CourseApp/CourseWebApp/CourseWeb/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/steil/OneDrive - Instituto Tecnológico de Las Américas (ITLA)/Imágenes/ITLA/Devops/CourseApp/CourseWebApp/CourseWeb/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/steil/OneDrive - Instituto Tecnológico de Las Américas (ITLA)/Imágenes/ITLA/Devops/CourseApp/CourseWebApp/CourseWeb/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/steil/OneDrive - Instituto Tecnológico de Las Américas (ITLA)/Imágenes/ITLA/Devops/CourseApp/CourseWebApp/CourseWeb/Views/_ViewImports.cshtml]

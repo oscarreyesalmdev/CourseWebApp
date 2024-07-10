@@ -1,0 +1,19 @@
+﻿@using CourseWeb.Models
+@model IEnumerable<Usuario>﻿
+@{
+    ViewData["Title"] = "Usuarios";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Datos del usuario</h1>
+    
+</div>
+
+<ul>
+    @foreach(var user in Model)
+    {
+        <li>@user.Nombre</li>
+        <li>@user.Telefono</li>
+        <li>@user.email</li>
+    }
+</ul>
