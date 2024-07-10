@@ -11,8 +11,9 @@ namespace CourseWeb.Data
 
             }
 
-            public DbSet<Usuario> Usuarios { get; set; }
+            public DbSet<Usuario> Usuario { get; set; }
             public DbSet<Curso> Cursos { get; set; }
-       
+            public DbSet<Evaluacion> evaluacion { get; set; }
+
     }
 }
