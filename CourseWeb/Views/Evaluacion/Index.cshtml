@@ -1,38 +1,52 @@
 ﻿@using CourseWeb.Models
+@model IEnumerable<Evaluacion>
 
 @{
     ViewData["Title"] = "Evaluacion";
 }
 
-<div class="row" stlye="margin-top:30px">
+<div class="row" style="margin-top:30px">
     <div class="col-sm-12">
 
         <div class="panel panel-warning">
             <div class="panel-heading">
                 <h4>Lista de evaluaciones</h4>
             </div>
-            <div class="panel-boddy">
-                <a class="btn btn-success">Crear Evaluacion</a>
+            <div class="panel-body">
+                <a asp-controller="Evaluacion" asp-action="CrearE" class="btn btn-outline-success">Crear Evaluacion</a>
                 <hr />
 
                 <div class="table-responsive">
                     <table class="table table-striped">
                         <thead>
-                        <th>Nombre</th>
-                        <th>Apellido</th>
-                        <th>Curso</th>
-                        <th>Evaluacion</th>
-                        <th style="width:150px"></th>
+                            <tr>
+                                <th>Nombre</th>
+                                <th>Apellido</th>
+                                <th>Curso</th>
+                                <th>Evaluacion</th>
+                                <th style="width: 150px">Acciones</th>
+                            </tr>
                         </thead>
                         <tbody>
+                            @foreach (var evaluacion in Model)
+                            {
+                                <tr>
+                                    <td>@evaluacion.Nombre</td>
+                                    <td>@evaluacion.Apellido</td>
+                                    <td>@evaluacion.Curso.Titulo</td>
+                                    <td>@evaluacion.evaluacion</td>
+                                    <td>
+                                        <div class="btn-group">
+                                            <a asp-controller="Evaluacion" asp-action="Editar" asp-route-id="@evaluacion.Id" class="btn btn-sm btn-primary">Editar</a>
+                                            <a asp-controller="Evaluacion" asp-action="Eliminar" asp-route-id="@evaluacion.Id" class="btn btn-sm btn-danger">Eliminar</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
                         </tbody>
                     </table>
                 </div>
             </div>
         </div>
     </div>
-
-
-
-
 </div>

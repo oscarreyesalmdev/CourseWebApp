@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj": {}
+    "E:\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj": {
+    "E:\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj",
+        "projectUniqueName": "E:\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj",
         "projectName": "CourseDataTest",
-        "projectPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj",
-        "packagesPath": "C:\\Users\\steil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\steil\\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\\Imágenes\\ITLA\\Devops\\CourseApp\\CourseWebApp\\CourseDataTest\\obj\\",
+        "projectPath": "E:\\CourseWebApp\\CourseDataTest\\CourseDataTest.csproj",
+        "packagesPath": "C:\\Users\\byp4ss\\.nuget\\packages\\",
+        "outputPath": "E:\\CourseWebApp\\CourseDataTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\steil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\byp4ss\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
