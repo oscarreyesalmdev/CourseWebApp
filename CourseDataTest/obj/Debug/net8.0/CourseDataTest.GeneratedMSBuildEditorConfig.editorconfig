@@ -16,6 +16,6 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CourseDataTest
-build_property.ProjectDir = C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseApp\CourseWebApp\CourseDataTest\
+build_property.ProjectDir = C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

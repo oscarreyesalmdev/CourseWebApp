@@ -4,6 +4,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+using System.Threading.Tasks;
+using System.Linq;
 
 namespace CourseWeb.Controllers
 {
@@ -16,6 +18,7 @@ namespace CourseWeb.Controllers
             _logger = logger;
             _context = context;
         }
+
         // GET: CourseController
         public ActionResult Index()
         {
@@ -45,6 +48,24 @@ namespace CourseWeb.Controllers
         {
             if (ModelState.IsValid)
             {
+                if (curso.Titulo.Length > 40)
+                {
+                    ModelState.AddModelError("Titulo", "El título no puede tener más de 40 caracteres.");
+                    return View(curso);
+                }
+
+                if (curso.Descripcion != null && curso.Descripcion.Length > 300)
+                {
+                    ModelState.AddModelError("Descripcion", "La descripción no puede tener más de 300 caracteres.");
+                    return View(curso);
+                }
+
+                if (curso.FechaPublicacion == default(DateTime))
+                {
+                    ModelState.AddModelError("FechaPublicacion", "La fecha de publicación es obligatoria.");
+                    return View(curso);
+                }
+
                 _context.Add(curso);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
@@ -80,6 +101,24 @@ namespace CourseWeb.Controllers
 
             if (ModelState.IsValid)
             {
+                if (curso.Titulo.Length > 40)
+                {
+                    ModelState.AddModelError("Titulo", "El título no puede tener más de 40 caracteres.");
+                    return View(curso);
+                }
+
+                if (curso.Descripcion != null && curso.Descripcion.Length > 300)
+                {
+                    ModelState.AddModelError("Descripcion", "La descripción no puede tener más de 300 caracteres.");
+                    return View(curso);
+                }
+
+                if (curso.FechaPublicacion == default(DateTime))
+                {
+                    ModelState.AddModelError("FechaPublicacion", "La fecha de publicación es obligatoria.");
+                    return View(curso);
+                }
+
                 try
                 {
                     _context.Update(curso);
@@ -111,10 +150,14 @@ namespace CourseWeb.Controllers
         public async Task<IActionResult> EliminarC(int id)
         {
             var curso = await _context.Cursos.FindAsync(id);
+            if (curso == null)
+            {
+                return NotFound();
+            }
+
             _context.Cursos.Remove(curso);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
-
     }
 }
