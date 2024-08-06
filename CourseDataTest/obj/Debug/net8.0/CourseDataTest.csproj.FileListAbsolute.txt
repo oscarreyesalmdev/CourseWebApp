@@ -325,17 +325,23 @@ C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágen
 C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseApp\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseWeb.dll
 C:\Users\steil\OneDrive - Instituto Tecnológico de Las Américas (ITLA)\Imágenes\ITLA\Devops\CourseApp\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseWeb.pdb
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CoverletSourceRootsMapping_CourseDataTest
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\appsettings.Development.json
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\testhost.exe
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.csproj.AssemblyReference.cache
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.AssemblyInfoInputs.cache
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.AssemblyInfo.cs
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.csproj.CoreCompileInputs.cache
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.sourcelink.json
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\testhost.dll
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseWeb.deps.json
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseWeb.runtimeconfig.json
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\appsettings.json
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseWeb.staticwebassets.runtime.json
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseWeb.exe
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\testhost.exe
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\xunit.runner.utility.netcoreapp10.dll
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseDataTest.deps.json
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseDataTest.runtimeconfig.json
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseDataTest.dll
@@ -641,12 +647,6 @@ C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\runtime
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseWeb.dll
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\bin\Debug\net8.0\CourseWeb.pdb
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.csproj.AssemblyReference.cache
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.AssemblyInfoInputs.cache
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.AssemblyInfo.cs
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.csproj.CoreCompileInputs.cache
-C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.sourcelink.json
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDa.502C4A4F.Up2Date
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\CourseDataTest.dll
 C:\Users\whatd\source\repos\CourseWebApp\CourseDataTest\obj\Debug\net8.0\refint\CourseDataTest.dll
