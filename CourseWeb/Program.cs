@@ -1,6 +1,7 @@
 using CourseWeb.Data;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace CourseWeb
 {
     public class Program
@@ -11,13 +12,12 @@ namespace CourseWeb
 
             // Add DbContext
             builder.Services.AddDbContext<CourseAppContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-            
+                options.UseInMemoryDatabase("InMemoryCourseApp"));
+
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
-
 
             // Configure the HTTP request pipeline.
             if (!app.Environment.IsDevelopment())

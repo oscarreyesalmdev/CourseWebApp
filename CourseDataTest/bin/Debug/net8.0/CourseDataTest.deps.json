@@ -2826,6 +2826,7 @@
       "CourseWeb/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "8.0.7",
+          "Microsoft.EntityFrameworkCore.InMemory": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.6",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "8.0.2"
         },
